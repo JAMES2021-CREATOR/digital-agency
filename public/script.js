@@ -28,7 +28,7 @@ links.forEach(link => {
     e.preventDefault();
 
     const targetId = this.getAttribute("href"); // #home, #service, etc
-    const targetSection = document.querySelector(#service);
+    const targetSection = document.querySelector();
 
     if (targetSection) {
       targetSection.scrollIntoView({
